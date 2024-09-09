@@ -1,0 +1,174 @@
+.get-a-solana {
+    position: absolute;
+    top: 62px;
+    left: 275px;
+    font-weight: 800;
+}
+.download-a-solana-compatible {
+    position: absolute;
+    top: 129px;
+    left: 275px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #a3a3a3;
+}
+.get-a-solana-wallet-parent {
+    position: absolute;
+    top: 297px;
+    left: calc(50% - 535px);
+    border-radius: 18px;
+    background-color: #242424;
+    border: 2px solid #323232;
+    box-sizing: border-box;
+    width: 1070px;
+    height: 225px;
+    overflow: hidden;
+}
+.connect-to-a {
+    position: absolute;
+    top: 62px;
+    left: 274px;
+    font-weight: 800;
+}
+.use-a-decentralized {
+    position: absolute;
+    top: 129px;
+    left: 274px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #a3a3a3;
+    display: inline-block;
+    width: 595px;
+}
+.connect-to-a-dex-parent {
+    position: absolute;
+    top: 938px;
+    left: calc(50% - 535px);
+    border-radius: 18px;
+    background-color: #242424;
+    border: 2px solid #323232;
+    box-sizing: border-box;
+    width: 1070px;
+    height: 225px;
+    overflow: hidden;
+}
+.buy-sol {
+    position: absolute;
+    top: 62px;
+    left: 53px;
+    font-weight: 800;
+}
+.purchase-solana-sol {
+    position: absolute;
+    top: 129px;
+    left: 53px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #a3a3a3;
+    display: inline-block;
+    width: 649px;
+}
+.buy-sol-parent {
+    position: absolute;
+    top: 615px;
+    left: calc(50% - 535px);
+    border-radius: 18px;
+    background-color: #242424;
+    border: 2px solid #323232;
+    box-sizing: border-box;
+    width: 1070px;
+    height: 225px;
+    overflow: hidden;
+}
+.enter-ufoas-contract {
+    position: absolute;
+    top: 129px;
+    left: 53px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #a3a3a3;
+    display: inline-block;
+    width: 605px;
+}
+.swap-sol-for-ufoa-parent {
+    position: absolute;
+    top: 1261px;
+    left: calc(50% - 535px);
+    border-radius: 18px;
+    background-color: #242424;
+    border: 2px solid #323232;
+    box-sizing: border-box;
+    width: 1070px;
+    height: 225px;
+    overflow: hidden;
+}
+.buy {
+    color: #62ed2e;
+    font-size: 2.5rem;
+    
+}
+
+.BuyNow{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5rem;
+    color:aliceblue;
+    margin-bottom: 0;
+}
+
+.how-to-buy-container {
+    position: absolute;
+    top: 137px;
+    left: calc(50% - 204px);
+    font-size: 64px;
+    font-weight: 800;
+    text-align: center;
+    display: inline-block;
+    width: 409px;
+    color: #fff;
+}
+.icon-wallet {
+    position: absolute;
+    bottom: 157.2px;
+    left: calc(50% + 283px);
+    width: 250px;
+    height: 222.8px;
+    object-fit: cover;
+}
+.icon1-Dex {
+    position: absolute;
+    top: 272px;
+    left: 186px;
+    width: 250px;
+    height: 275.8px;
+    object-fit: cover;
+}
+.icon2-Sol {
+    position: absolute;
+    top: 594px;
+    left: 1005px;
+    width: 250px;
+    height: 266.3px;
+    object-fit: cover;
+}
+.icon3-Swap {
+    position: absolute;
+    top: calc(50% + 108px);
+    left: calc(50% - 535px);
+    width: 250px;
+    height: 243.1px;
+    object-fit: cover;
+}
+.how-to-buy {
+    width: 100%;
+    position: relative;
+    background-color: #1c1c1c;
+    height: 1642px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 42px;
+    color: #c2b6f6;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 2rem;
+    align-content: center;
+}
+

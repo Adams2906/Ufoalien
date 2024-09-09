@@ -1,0 +1,150 @@
+.image-14-icon {
+  	position: absolute;
+  	top: 324px;
+  	left: 55px;
+  	width: 157.2px;
+  	height: 132.4px;
+  	object-fit: cover;
+}
+.icon {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 300px;
+  	height: 375.3px;
+  	object-fit: cover;
+}
+.about-img {
+  	position: absolute;
+  	top: 89px;
+  	left: 136px;
+  	width: 300px;
+  	height: 456.4px;
+}
+.ufo {
+  	color: #62ed2e;
+	font-size: 2.5rem;
+}
+
+.Alien{
+    color: aliceblue;
+	font-size: 2.5rem;
+}
+
+.About{
+    color: aliceblue;
+	font-size: 2.5rem;
+}
+.about-ufo-alien-container {
+  	align-self: stretch;
+  	position: relative;
+  	font-weight: 800;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+.ufo-alien-is-the {
+  	align-self: stretch;
+  	position: relative;
+  	font-size: 16px;
+  	font-weight: bold;
+  	color: #808080;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 2;
+}
+.about-ufo-alien-parent {
+  	align-self: stretch;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 24px;
+}
+
+.newbutton {
+    background-color: #5841be; /* Green background */
+    border: none; /* Remove border */
+    color: white; /* White text */
+    padding: 12px 42px; /* Add some padding */
+    text-align: center; /* Center the text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Display as inline-block */
+    font-size: 16px; /* Increase font size */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+.x-icon {
+  	width: 32px;
+  	position: relative;
+  	border-radius: 16.3px;
+  	height: 32px;
+  	object-fit: cover;
+}
+.telegram-icon {
+  	width: 32px;
+  	position: relative;
+  	border-radius: 16.3px;
+  	height: 32px;
+}
+.x-parent {
+  	display: flex;
+  	flex-direction: row;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 16.3px;
+}
+.frame-parent {
+  	position: absolute;
+  	top: 147px;
+  	left: 506px;
+  	width: 479px;
+  	display: flex;
+  	flex-direction: column;
+  	align-items: center;
+  	justify-content: flex-start;
+  	gap: 39px;
+}
+.icon1 {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	width: 250px;
+  	height: 371.4px;
+  	object-fit: cover;
+}
+.image-13-icon {
+  	position: absolute;
+  	top: 97px;
+  	left: 43px;
+  	width: 35.2px;
+  	height: 35px;
+  	object-fit: cover;
+}
+.image-15-icon {
+  	position: absolute;
+  	top: 112px;
+  	left: 119px;
+  	width: 35.2px;
+  	height: 35px;
+  	object-fit: cover;
+}
+.boxing-image {
+  	position: absolute;
+  	top: 131px;
+  	left: 1055px;
+  	width: 250px;
+  	height: 371.4px;
+}
+.desktop-4 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #1c1c1c;
+  	height: 634px;
+  	overflow: hidden;
+  	text-align: center;
+  	font-size: 42px;
+  	color: #fff;
+  	font-family: Inter;
+    margin-top: 2rem;
+}
+

@@ -1,0 +1,75 @@
+.icon-tokenomics {
+    position: absolute;
+    top: 96px;
+    left: 138px;
+    width: 500px;
+    height: 545.1px;
+    object-fit: cover;
+
+}
+.tokenomics1 {
+    align-self: stretch;
+    position: relative;
+    font-weight: 800;
+}
+.ca-0x1234567890abcdef12345678 {
+    position: relative;
+    font-weight: 600;
+}
+.ca-0x1234567890abcdef12345678-wrapper {
+    border-radius: 5px;
+    background-color: #262626;
+    border: 1px solid #353535;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    font-size: 16px;
+    color: #fefefe;
+}
+.total-supply-1000000000-uf {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    padding-left: 32px;
+}
+.total-supply-1000000000-container {
+    align-self: stretch;
+    position: relative;
+    font-weight: 600;
+}
+.total-supply-1000000000-uf-parent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 24px;
+    font-size: 24px;
+    color: #a3a3a3;
+}
+.tokenomics-parent {
+    position: absolute;
+    top: 161px;
+    left: 796px;
+    width: 506px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 39px;
+}
+.tokenomics {
+    width: 100%;
+    position: relative;
+    background-color: #1c1c1c;
+    height: 650px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 64px;
+    color: #8977d4;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top:2rem;
+}
+

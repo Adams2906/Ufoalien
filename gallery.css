@@ -1,0 +1,135 @@
+.cute-alien-sitting-on-ufo-drin {
+    position: absolute;
+    top: calc(50% - 211.5px);
+    left: calc(50% - 177px);
+    width: 354.5px;
+    height: 424px;
+    object-fit: cover;
+}
+.cute-alien-sitting-on-ufo-drin-wrapper {
+    width: 340px;
+    position: relative;
+    border-radius: 18px;
+    background-color: #50a1b3;
+    border: 2px solid #323232;
+    box-sizing: border-box;
+    height: 607px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.Alien-raised{
+    position: absolute;
+    top: calc(50% - 220.5px);
+    left: calc(50% - 142px);
+    width: 300px;
+    height: 440.6px;
+    object-fit: cover;
+}
+.wra {
+    width: 340px;
+    position: relative;
+    border-radius: 18px;
+    background-color: #b29448;
+    border: 2px solid #323232;
+    box-sizing: border-box;
+    height: 607px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.chill {
+    position: absolute;
+    bottom: 35.5px;
+    left: calc(50% - 160px);
+    width: 546px;
+    height: 486.5px;
+    object-fit: cover;
+}
+.cintainer {
+    width: 340px;
+    position: relative;
+    border-radius: 18px;
+    background-color: #b07fd6;
+    border: 2px solid #323232;
+    box-sizing: border-box;
+    height: 607px;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+.frame-gallery {
+    position: absolute;
+    top: 256px;
+    left: calc(50% - 528px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 18px;
+}
+.gallery1 {
+    color: #fff;
+    font-size:2.5rem
+}
+.ufo-meme-gallery-container {
+    position: absolute;
+    top: 93px;
+    left: calc(50% - 306px);
+    font-weight: 800;
+    display: inline-block;
+    width: 613px;
+}
+.Xyellow {
+    width: 32px;
+    position: relative;
+    border-radius: 16.3px;
+    height: 32px;
+    object-fit: cover;
+}
+.Tgblue .Discord {
+    width: 32px;
+    position: relative;
+    border-radius: 16.3px;
+    height: 32px;
+}
+.x-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 16.3px;
+}
+.ufo-alien-122-all {
+    position: relative;
+    font-weight: 800;
+}
+.frame-grp {
+    position: absolute;
+    top: 959px;
+    left: calc(50% - 297px);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 40px;
+    text-align: left;
+    font-size: 16px;
+    color: #a3a3a3;
+}
+.gallery {
+    width: 100%;
+    position: relative;
+    background-color: #1c1c1c;
+    height: 1079px;
+    overflow: hidden;
+    text-align: center;
+    font-size: 64px;
+    color: #62ed2e;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    bottom: 32px;
+}
+
+.UFOMEME{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 2.5rem;
+    color:#62ed2e;
+    margin-bottom: 0;
+}

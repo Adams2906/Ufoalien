@@ -1,0 +1,200 @@
+
+
+
+body {
+    background-color: #1c1c1c;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden; /* Prevent horizontal scrolling */
+    width: 100%; /* Ensure body takes up full width */
+}
+
+.box{
+    border-radius: 5px;
+    margin: 2px;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+}
+
+.flex-container{
+    display:flex;
+    justify-content: center;
+    color: aliceblue;
+    align-items: center;
+   align-content: center;
+    
+}
+
+
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #1c1c1c;
+    position: fixed;
+    left: 0;
+    top: 0;
+    right: 0;
+    height: 64px;
+    z-index: 100;
+   align-content: center;
+  
+}
+
+.img-logo{
+    width: 120px;
+    margin-left: 124px;
+    
+}
+
+.Social{
+    margin-right: 124px;
+    display: flex;
+    justify-content:space-between;
+    
+}
+
+.Image-Solana{
+    display: flex;
+}
+
+.Twitter-icon{
+    width: auto;
+   
+}
+
+.Telegram-icon{
+    width: auto;
+    margin-left: 12px;
+}
+
+
+.Hero-section{
+    display: flex;
+    margin-top: 8rem;
+    justify-items: center;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap; /* Make sure content wraps appropriately */
+    width: 100%; /* Full width to prevent shifting */
+    
+}
+
+    
+
+.Hero-img{
+    width: 500px;
+    height: 521.92px;
+   
+    
+}
+
+.Hero-leftside{
+    
+    margin: auto; /* Center both left and right sections */
+    
+    }
+
+
+.Hero-rightside{
+   
+    align-items: center;
+    margin: auto; /* Center both left and right sections */
+    
+
+    }
+
+
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:6rem;
+    color: aliceblue; 
+    margin-bottom: 0;
+    
+}
+
+span{
+    font-size: 2rem;
+    color: aliceblue;
+
+}
+
+.text-div{
+    margin-bottom: 24px;
+}
+
+.btn {
+    background-color: #4CAF50; /* Green background */
+    border: none; /* Remove border */
+    color: white; /* White text */
+    padding: 12px 42px; /* Add some padding */
+    text-align: center; /* Center the text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Display as inline-block */
+    font-size: 16px; /* Increase font size */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+    cursor: pointer; /* Pointer cursor on hover */
+    margin-right: 12px;
+}
+
+.btn{
+    background-color: #45a049; /* Darker green on hover */
+}
+
+.button {
+    background-color: #6C4DEF; /* Green background */
+    border: none; /* Remove border */
+    color: white; /* White text */
+    padding: 12px 42px; /* Add some padding */
+    text-align: center; /* Center the text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Display as inline-block */
+    font-size: 16px; /* Increase font size */
+    border-radius: 5px; /* Rounded corners */
+    transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+    cursor: pointer; /* Pointer cursor on hover */
+}
+
+.button{
+    background-color: #5841be; /* Darker green on hover */
+}
+
+.call-to-action{
+    margin-top: 3rem;
+}
+
+.Solanaicon{
+   position: relative;
+   left: 400px;
+   top: -160px;
+}
+
+
+span{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:1.5rem;
+    color: #808080; 
+    margin-bottom: 0;
+    
+}
+
+.CA{
+position: relative;
+border-radius: 5px;
+background-color: #262626;
+border: 1px solid #353535;
+box-sizing: border-box;
+width: 100%;
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: center;
+color: #fefefe;
+margin-top: 24px;
+padding: 10px;
+text-align: left;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
